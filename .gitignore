@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 部署 / 临时文件
+*.log
+*.tmp
+*.bak
+node_modules/
+
+# 数据库 / 用户上传（主题内不应提交）
+*.sqlite
+*.db
